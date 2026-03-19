@@ -9,16 +9,24 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devloperds&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-# 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-parekh31/)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=devloperds&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 😂 Here is a random dev joke for you !!
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23212529&textColor=%23ffddd2&qColor=%23f94144&aColor=%2390be6d&borderColor=%23f9c74f&codeColor=%23f9c74f)
+
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+## 🙋‍♀️ Let's Connect
+<p align="center">
+  <a href="https://prabith.gq/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+        <a href="mailto:parekhdarshan78@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+        <a href="https://github.com/devloperds"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+        <a href="https://www.linkedin.com/in/darshan-parekh31/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+</p>
+
+
+![](https://i.imgur.com/G46LgYQ.png)
 
 
 <!--
