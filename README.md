@@ -19,7 +19,7 @@
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-  <a href="https://prabith.gq/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+  <a href="https://darshan-parekh-portfolio.vercel.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
         <a href="mailto:parekhdarshan78@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
         <a href="https://github.com/devloperds"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
         <a href="https://www.linkedin.com/in/darshan-parekh31/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
