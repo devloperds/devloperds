@@ -8,6 +8,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=devloperds&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devloperds&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 # 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-parekh31/)
 
