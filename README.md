@@ -16,6 +16,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=devloperds&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 😂 Here is a random dev joke for you !!
+
+![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23212529&textColor=%23ffddd2&qColor=%23f94144&aColor=%2390be6d&borderColor=%23f9c74f&codeColor=%23f9c74f)
+
 
 <!--
 **devloperds/devloperds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
